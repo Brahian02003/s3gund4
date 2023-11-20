@@ -1,4 +1,4 @@
-alert("Cuidado!! Esta pagina puede ser de tu agarado, comenzamos?");
+alert("Cuidado!! Esta pagina puede ser de tu agrado, comenzamos?");
 
 let nombre = prompt("¿Cual es tu nombre?", "Ingresa tu nombre");
 
